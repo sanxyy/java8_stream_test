@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 
 
 // test advanced stream function
+//add more comments
 public class TestAdvancedStreamFunctional {
 	public static void main(String[] args) {
 		List<Person> persons =
